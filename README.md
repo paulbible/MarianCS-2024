@@ -1,6 +1,8 @@
 # MarianCS-2024
 A simple game to have some fun and explore python programming.
 
+![Alt text](screenshot.png?raw=true "Game Demo Screenshot")
+
 ## Code License
 CC0, Public domain (http://creativecommons.org/publicdomain/zero/1.0/). See specific packages for their licenses
 
